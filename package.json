@@ -5,7 +5,7 @@
   "author": "Cohen Erickson <cohen@radon.games>",
   "type": "module",
   "license": "GNU v2",
-  "scripts": {start
+  "scripts": {"start",
     "dev": "vite --host",
     "build": "tsc && vite build",
     "pretty": "prettier --write .",
